@@ -1,13 +1,10 @@
 <p align="center"><img width="90%" src="images/Reinforcement-Learning.png" /></p>
 
 --------------------------------------------------------------------------------
-> Maintainers - (https://github.com/dnddnjs), [이영무](https://github.com/zzing0907), [양혁렬](https://github.com/Hyeokreal), [이의령](https://github.com/wooridle), [김건우](https://github.com/keon)
-
-[Pull Request](https://github.com/rlcode/reinforcement-learning-kr/pulls)는 언제든 환영입니다.
-문제나 버그, 혹은 궁금한 사항이 있으면 [이슈](https://github.com/rlcode/reinforcement-learning-kr/issues)에 글을 남겨주세요.
 
 
-## 필요한 라이브러리들 (Dependencies)
+
+## (Dependencies)
 1. Python 3.5
 2. Tensorflow 1.0.0
 3. Keras 
